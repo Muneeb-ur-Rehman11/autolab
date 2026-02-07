@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://autolabdxb.com/gallery/gallery_1749461072030_1818151.jpeg",
+        "title": "Detailing Services",
+        "desp": "Complete exterior washing service with professional attention to detail. Available for all vehicle types including hatchbacks, sedans, and SUVs."
+    },
+    {
+        "id": 2,
+        "img": "https://autolabdxb.com/gallery/1%20(26).jpeg",
+        "title": "Paint Protection",
+        "desp": "Premium Protektor Made in Canada paint protection film with 10 years warranty, including lifetime material and yearly top-up service."
+    },
+    {
+        "id": 3,
+        "img": "https://autolabdxb.com/gallery/1%20(15).jpeg",
+        "title": "Vehicle Customization",
+        "desp": "Professional vehicle wrapping service with multiple warranty options for complete vehicle transformation."
+    },
+    {
+        "id": 4,
+        "img": "/assets/img/service/service_4.jpg",
+        "title": "Repair Services",
+        "desp": "Professional paintless dent repair service to remove dents without affecting the original paint finish."
+    }
+]
