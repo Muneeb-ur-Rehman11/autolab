@@ -21,10 +21,10 @@ export default function Home() {
       <Services styleTypeTwo={true} />
       <Videos videoId={"VcaAVWtP48A"} />
       <AutoCounter />
-      <TrustedClient />
+      {/* <TrustedClient /> */}
       <Testimonial />
       {/* <Teams /> */}
-      <PricingTable />
+      {/* <PricingTable /> */}
       {/* <Blogs styleTypeTwo={true} /> */}
     </>
   );
